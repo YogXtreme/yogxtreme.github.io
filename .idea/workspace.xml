@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b34c7762-09eb-445f-9233-1d58e05445a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/test.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g5uvjSftNgnLS5tXrNTDSrhnI9" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Android\Yogic Technologies\asset\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Android\Yogic Technologies" />
+      <recent name="H:\Android\Yogic Technologies\asset\vendor" />
+      <recent name="H:\Android\Yogic Technologies\css" />
+      <recent name="H:\Android\Yogic Technologies\js" />
+      <recent name="H:\Android\Yogic Technologies\raw" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b34c7762-09eb-445f-9233-1d58e05445a1" name="Default Changelist" comment="" />
+      <created>1597417006631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597417006631</updated>
+      <workItem from="1597417009502" duration="2304000" />
+      <workItem from="1597468687907" duration="14703000" />
+      <workItem from="1597643322000" duration="17819000" />
+      <workItem from="1597727632372" duration="2449000" />
+      <workItem from="1597846835832" duration="3964000" />
+      <workItem from="1597905693845" duration="2500000" />
+      <workItem from="1597923622729" duration="7488000" />
+      <workItem from="1598073173195" duration="112000" />
+      <workItem from="1598094036968" duration="3553000" />
+      <workItem from="1598165817453" duration="2017000" />
+      <workItem from="1599891651520" duration="6000" />
+      <workItem from="1599891972690" duration="5000" />
+      <workItem from="1602953634134" duration="264000" />
+      <workItem from="1604814252273" duration="45000" />
+      <workItem from="1604814343485" duration="738000" />
+      <workItem from="1605937380684" duration="14000" />
+      <workItem from="1605937437093" duration="910000" />
+    </task>
+    <task id="LOCAL-00001" summary="Navbar Background Color and Link color Change on Scroll">
+      <created>1598097331554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598097331554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Navbar Background Color and Link color Change on Scroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navbar Background Color and Link color Change on Scroll" />
+  </component>
+</project>
