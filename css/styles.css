@@ -1,6 +1,10 @@
 
-body{
+/*body{
   margin-bottom: 120px;
+}*/
+
+#contact{
+    margin-bottom: 120px;
 }
 
 :root
@@ -29,6 +33,7 @@ header.masthead h1 {
         min-height: 40rem;
         padding-top: 4.5rem;
         padding-bottom: 0;
+        /*margin-top: 56px;*/
     }
     header.masthead p {
         font-size: 1.15rem;
@@ -96,6 +101,7 @@ hr.divider {
     border: none;
     max-width: 100%;
     height: auto;
+    width: 100%;
 }
 
 @media (max-width: 992px) {
@@ -266,6 +272,10 @@ hr.divider {
     background-color: white;
 }
 
+/*Added by Shubham om 17-04-2021*/
+.show{
+    margin-top: 20px;
+}
 
 
 

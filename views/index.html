@@ -20,23 +20,30 @@
 
     <!--Vendor Css-->
     <link rel="stylesheet" href="../asset/vendor/boxicons/css/boxicons.css">
+
+    <!-- Added by Shubham related to Success Popup-->
+    <!-- Starts Here -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <!--Ends Here -->
 </head>
 <body>
 
    <section id="home">
        <article id="main_article">
            <!--Navigation Bar-->
-            <nav class="navbar navbar-light navbar-expand-lg shadow-none fixed-top">
-                <a href="#" class="navbar-brand text-white"><span class="font-marriweather" id="company_name">YogXtreme iT Solutions</span></a>
+            <nav class="navbar navbar-light navbar-expand-lg navbar-white fixed-top">
+                <a href="#" class="navbar-brand text-white"><span class="font-marriweather" id="company_name" style="color: black">YogXtreme iT Solutions</span></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav ml-auto">
-                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather" id="home_link" href="#">Home <span class="sr-only">(current)</span></a>
-                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather" id="service_link" href="#services">Services</a>
-                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather" id="about_link" href="#about">About</a>
-                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather" id="contact_link" href="#contact">Contact us</a>
+                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather link-black" id="home_link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather link-black" id="service_link" href="#services">Services</a>
+                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather link-black" id="about_link" href="#about">About</a>
+                        <a class="nav-item nav-link text-white font-weight-bold font-marriweather link-black" id="contact_link" href="#contact">Contact us</a>
                     </div>
                 </div>
             </nav>
@@ -145,7 +152,8 @@
                            <div class="info-box">
                                <i class="bx bx-map"></i>
                                <h3>Our Address</h3>
-                               <p class="font-marriweather">Burhanpur,Madhya Pradesh,India</p>
+                               <p class="font-marriweather">Burhanpur(450331), Madhya Pradesh, India</p>
+                               <p class="font-marriweather">Raver(425508), Maharastra, India</p>
                            </div>
                        </div>
                        <div class="col-md-6">
@@ -167,6 +175,18 @@
                </div>
 
                <div class="col-lg-6">
+
+                <!-- Added by Shubham 17-04-2021-->
+                <!--Starts here-->
+                <div class="container" style="display: none;">
+  
+                        <div class="alert alert-success alert-dismissible fade show">
+                        <button type="button" class="close" data-dismiss="alert">&times;</button>
+                        <strong>Success!</strong> Your Request has been Submitted Successfully. Contact us on : +91 9993033712 , +91 8208943624.
+                        </div>
+                  </div>
+                  <!--Ends here-->
+
                    <form action="../forms/contact.php" method="post" role="form" class="php-email-form">
                        <div class="form-row">
                            <div class="col form-group">
@@ -183,15 +203,12 @@
                            <div class="validate"></div>
                        </div>
                        <div class="form-group">
-                           <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                           <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" id="message" placeholder="Message"></textarea>
                            <div class="validate"></div>
                        </div>
-                       <div class="mb-3">
-                           <div class="loading">Loading</div>
-                           <div class="error-message"></div>
-                           <div class="sent-message">Your message has been sent. Thank you!</div>
-                       </div>
-                       <div class="text-center"><button type="submit">Send Message</button></div>
+                      
+                       <div class="text-center"><button type="submit" 
+                        id="submitQuery">Send Message</button></div>
                    </form>
                </div>
 

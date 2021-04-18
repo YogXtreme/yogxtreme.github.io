@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b34c7762-09eb-445f-9233-1d58e05445a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Yogic Technologies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Yogic Technologies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/vendor/boxicons/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/vendor/boxicons/css/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/vendor/boxicons/css/transformations.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/vendor/boxicons/css/transformations.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/validate.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +96,7 @@
       <workItem from="1604814343485" duration="738000" />
       <workItem from="1605937380684" duration="14000" />
       <workItem from="1605937437093" duration="910000" />
+      <workItem from="1618724900978" duration="6323000" />
     </task>
     <task id="LOCAL-00001" summary="Navbar Background Color and Link color Change on Scroll">
       <created>1598097331554</created>
